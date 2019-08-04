@@ -1,0 +1,11 @@
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\bin\Debug\Arduino_Save_Receive_v2.exe.config
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\bin\Debug\Arduino_Save_Receive_v2.exe
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\bin\Debug\Arduino_Save_Receive_v2.pdb
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\bin\Debug\kayChart.dll
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\obj\Debug\Arduino_Save_Receive_v2.Form1.resources
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\obj\Debug\Arduino_Save_Receive_v2.Properties.Resources.resources
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\obj\Debug\Arduino_Save_Receive_v2.csproj.GenerateResource.cache
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\obj\Debug\Arduino_Save_Receive_v2.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\obj\Debug\Arduino_Save_Receive_v2.csproj.CopyComplete
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\obj\Debug\Arduino_Save_Receive_v2.exe
+C:\Users\Andreas\source\repos\Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\obj\Debug\Arduino_Save_Receive_v2.pdb
