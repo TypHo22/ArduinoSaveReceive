@@ -4,7 +4,7 @@ Easy to use GUI for Arduino Microcontrollers
  * Acknowledgement: This work has benefitted from funding through the CleanSky2 Programme under Grant Agreement CS2-LPA-GAM-2016-2017-01. The authors are responsible for the content of this publication.
  *+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+**+*
 
-
+- For all of you guys which just want to use the GUI. only download the .zip
 - Add the libary PID_v1_own to your libary directory
 - Flash Arduino 1.8 on your Arduino pending on your application you have to manipulate values here
 - Run the program in the folder Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\bin\Debug\Arduino_Save_Receive_v2
