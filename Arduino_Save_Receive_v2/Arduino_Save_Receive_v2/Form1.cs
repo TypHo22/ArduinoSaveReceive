@@ -73,39 +73,24 @@ namespace Arduino_Save_Receive_v2
      
         private void serialDataReceivedEventHandler(object sender, SerialDataReceivedEventArgs e)
         {
-    
-          
-
-           
-
             // initialization of chart update
             double data;  // handshake variable for graph
             bool result = Double.TryParse(dataArray[0], out data);
             if (result)
             {
-
-
-                
                 serialDataChart.TriggeredUpdate(data / 100); // writing into diagramm /100. 273.15 should not be interpreted as 27315 
-
             }
-
         }
         private void Form1_Load_1(object sender, EventArgs e)  // MUSS EXTRA DURCH DOPPELKLICK in die FORM erzeugt werden, abschreiben funktinoniert nicht (war ein fehler warum der graph nicht funktioniert hat)
         {
             serialDataChart = new kayChart(chart1, 60);
             serialDataChart.serieName = "Out1";
         }
-
-
-
         private void displaydata_event(object sender, EventArgs e)   //display into textbox
         {
-
             datetime = DateTime.Now;
             string time = datetime.Hour + ":" + datetime.Minute + ":" + datetime.Second;
             data_tb.AppendText(time + "\t\t\t" + in_data + "\n"); //"\t\t\t"  // Multilineversion
-
             try
             {
                 val_lbl.Text = dataArray[0];     // Visualisation actual value
@@ -117,7 +102,6 @@ namespace Arduino_Save_Receive_v2
                 time_lbl.Text = dataArray[6];  // visualisation of time which has been passed since program start
            }
             catch (Exception)
-
             { }
         }
 
