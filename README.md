@@ -8,7 +8,7 @@ Easy to use GUI for Arduino Microcontrollers
 - Add the libary PID_v1_own to your libary directory
 - Flash Arduino 1.8 on your Arduino pending on your application you have to manipulate values here
 - Run the program in the folder Arduino_Save_Receive_v2\Arduino_Save_Receive_v2\bin\Debug\Arduino_Save_Receive_v2
-  Do not seperate the Datas in the folder! !!!!The GUI can not work without the needed libarys!!!!!
+  Do not seperate the Datas in the folder! !!!!The GUI can not work without the needed libraries!!!!!
 - Read the manual!
 
 For any troubleshooting and suggestions with this content please contact me via mail: andreas35494@yahoo.de
